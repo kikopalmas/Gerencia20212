@@ -13,10 +13,7 @@ public class Produto {
     private String nomeProduto;
     private int pesoProduto;
 
-    private void cadastrarProduto() {
-    };
-    private void removeProduto(int idProduto) {
-    };
-    private void alterarProduto(int idProduto) {
-    };
+    private void cadastrarProduto(){}
+    private void removeProduto(int idProduto) {}
+    private void alterarProduto(int idProduto) {}
 }
